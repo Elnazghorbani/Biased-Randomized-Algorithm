@@ -1,0 +1,1 @@
+This repository contains the implementation of a biased randomized methodology for solving the Traveling Salesman Problem (TSP). This technique leverages randomness to explore diverse solution spaces, enabling the discovery of near-optimal solutions in a significantly shorter time compared to traditional methods.
